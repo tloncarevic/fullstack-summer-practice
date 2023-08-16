@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(163, 60, 56);;
+    margin-left: 1rem;
+}
+
+div {
+    margin-bottom: 2em;
+}
+
+.description {
+    background-color: rgb(163, 60, 56);
+    color: white;
+    padding: 1em;
+}
